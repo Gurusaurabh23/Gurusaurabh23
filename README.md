@@ -31,8 +31,8 @@ Building portfolio-ready applications for real-world use-cases
 
 📬 Let’s Connect
 
-GitHub: @Gurusaurabh23
+GitHub:[@Gurusaurabh23](https://github.com/Gurusaurabh23/Basic_to_Advanced)
 
-LinkedIn: Saurabh Gawarguru
+LinkedIn:[Saurabh Gawarguru](https://www.linkedin.com/in/saurabh-gawarguru-b146b7385)
 
 Thanks for stopping by. Feel free to explore my work—and let’s create something great together!
