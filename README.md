@@ -1,7 +1,8 @@
 👋 Hi there! I’m Saurabh Gawarguru
 🚀 About Me
 
-I’m a dedicated Machine Learning & Deep Learning engineer who transforms data into compelling insights and builds meaningful AI-driven solutions. My learning path has taken me from mastering core libraries to deploying sophisticated neural network architectures. This repository collection chronicles that journey.
+🚀 About Me
+I am a passionate Machine Learning & Deep Learning engineer, transforming data into insights and building intelligent, scalable AI solutions. My journey spans from mastering foundational libraries to deploying advanced neural architectures. I’m actively seeking working-student roles or internships in ML/AI where I can apply my skills and continue growing.
 
 🛠 Skills & Technologies
 
