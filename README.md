@@ -21,9 +21,13 @@ This repository is structured to reflect incremental growth:
 Stage	Focus Area	Contents
 
 01_Libraries	Foundational tools	Notebooks & READMEs on NumPy, Pandas, etc.
+
 02_Basic_Machine_Learning	Classic ML algorithms	Regression • Classification • Clustering.
+
 03_Neural_Networks	Intro to Neural Networks	Simple architectures & backpropagation .
+
 04_Advanced_Deep_Learning	Complex deep learning models	CNNs • RNNs • Advanced architectures .
+
 05_Big_Projects	Real-world end-to-end solutions	Project notebooks • Documentation .
 
 🔭 What I’m Working On
