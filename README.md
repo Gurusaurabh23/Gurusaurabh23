@@ -1,29 +1,38 @@
-## Hi there 👋
+👋 Hi there! I’m Saurabh Gawarguru
+🚀 About Me
 
-Hello, I'm Saurabh Gawarguru👋
-About Me
-I am a passionate learner and developer in the field of Machine Learning and Deep Learning. Over time, I’ve evolved from mastering basic libraries to working on sophisticated deep learning projects. This repository captures that journey.
+I’m a dedicated Machine Learning & Deep Learning engineer who transforms data into compelling insights and builds meaningful AI-driven solutions. My learning path has taken me from mastering core libraries to deploying sophisticated neural network architectures. This repository collection chronicles that journey.
 
-Skills & Tools
-Languages: Python, (you can add more: R, SQL, etc)
-Libs & Frameworks: NumPy, Pandas, scikit-learn, TensorFlow, Keras
-Areas of Interest: Neural Networks, CNNs, RNNs, Transformers, Computer Vision, NLP
-Other tools: Git, GitHub, version control, data preprocessing, visualization
-Projects & Learning Stages
-This repo is organized into stages:
+🛠 Skills & Technologies
 
-Stage	Focus	What You’ll Find
-01_Libraries	Basic foundational tools	Notebooks & README covering libraries like NumPy, Pandas etc
-02_Basic_Machine_Learning	Classic ML models	Regression, classification, clustering examples
-03_Neural_Networks	Introduction to NNs	Simple network architectures, backpropagation, etc
-04_Advanced_Deep_Learning	Complex models	CNNs, RNNs, advanced architectures
-05_Big_Projects	Real project implementations	End-to-end notebooks, readmes, documentation
-What I’m Learning Now
-Currently I am working on:
+Languages: Python (also exploring R, SQL)
 
-End-To-End Deployment of Models
-Building portfolio projects for real-world applications
-Contact & Connect
-GitHub: Gurusaurabh23
-LinkedIn: saurabh-gawarguru
-Thanks for visiting my profile and exploring my work!
+Libraries & Frameworks: NumPy • Pandas • scikit-learn • TensorFlow • Keras
+
+Focus Areas: Neural Networks • CNNs • RNNs • Transformers • Computer Vision • NLP
+
+Tooling & Practices: Git • GitHub • Version Control • Data Pre-processing • Visualization
+
+📂 Projects & Learning Stages
+
+This repository is structured to reflect incremental growth:
+
+Stage	Focus Area	Contents
+01_Libraries	Foundational tools	Notebooks & READMEs on NumPy, Pandas, etc.
+02_Basic_Machine_Learning	Classic ML algorithms	Regression • Classification • Clustering
+03_Neural_Networks	Intro to Neural Networks	Simple architectures & backpropagation
+04_Advanced_Deep_Learning	Complex deep learning models	CNNs • RNNs • Advanced architectures
+05_Big_Projects	Real-world end-to-end solutions	Project notebooks • Documentation
+🔭 What I’m Working On
+
+Deploying ML/DL models into production environments
+
+Building portfolio-ready applications for real-world use-cases
+
+📬 Let’s Connect
+
+GitHub: @Gurusaurabh23
+
+LinkedIn: Saurabh Gawarguru
+
+Thanks for stopping by. Feel free to explore my work—and let’s create something great together!
